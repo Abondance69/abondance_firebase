@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180285242790",
+    "project_id": "firebase-ipssi",
+    "storage_bucket": "firebase-ipssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180285242790:android:fcbdc56efa3e62e661e367",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFylTxeEOX93JmQuhIZ8sDU04GLxnqna4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
